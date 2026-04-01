@@ -1,6 +1,7 @@
 # GitHub Actions Lockdown Script
 
-Interactive script to disable GitHub Actions/workflows and cancel queued runs for any repo you can access.
+Forked a repo and suddenly dozens of GitHub Actions workflows started appearing or queuing?  
+This script is the one-command cleanup: it quickly locks down Actions in your fork (or any repo you can access) by disabling repo Actions, disabling workflows, and canceling pending runs.
 
 ## Requirements
 
